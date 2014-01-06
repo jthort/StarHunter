@@ -1,0 +1,14 @@
+name: StarHunt
+version: 1.0
+main: StarHunter.StarHunter
+description: 
+    Hunt for the Stars!
+commands:
+    starhunt:
+        description: StarHunting options
+        usage: |
+           /starhunt
+    sh:
+        description: StarHunting options
+        usage: |
+           /starhunt
